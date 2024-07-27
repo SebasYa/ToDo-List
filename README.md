@@ -14,7 +14,7 @@
 
 ## Description
 
-ToDo List is a versatile task management application designed for iOS, allowing users to create, manage, and complete tasks efficiently. It supports real-time data synchronization using Firestore and offers offline access for user photos.
+ToDo List is a versatile task management application designed for iOS, allowing users to create, manage, and complete tasks efficiently. It supports real-time data synchronization using Firebase & Firestore and offers offline access for user photos.
 
 ## Features
 
@@ -37,7 +37,7 @@ ToDo List is a versatile task management application designed for iOS, allowing 
     - Navigate to the cloned project directory and open `ToDo-List.xcodeproj`.
 
 3. **Install dependencies**:
-    - Make sure all necessary dependencies are installed and up-to-date. This project uses Firestore, so ensure you have the necessary packages installed.
+    - Make sure all necessary dependencies are installed and up-to-date. This project uses Firebase & Firestore, so ensure you have the necessary packages installed.
 
 4. **Run the application**:
     - Select your target device and run the application.
