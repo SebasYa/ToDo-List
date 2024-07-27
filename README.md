@@ -16,6 +16,8 @@
 
 ToDo List is a versatile task management application designed for iOS, allowing users to create, manage, and complete tasks efficiently. It supports real-time data synchronization using Firebase & Firestore and offers offline access for user photos.
 
+<img src="https://github.com/SebasYa/ToDo-List/blob/main/todoGif.gif" alt="App Demo" width="250"/>
+
 ## Features
 
 - **Task Management**: Create, edit, and delete tasks.
